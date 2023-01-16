@@ -2,6 +2,10 @@
   "name": "render-image-links",
   "displayName": "render-image-links",
   "description": "View image links in your editor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WiIIiamTang/render-image-links"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
